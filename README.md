@@ -1,4 +1,4 @@
-# a11y (accessibility) toolbar
+# a11y (accessibility) toolbar Extension-1
 
 ## About
 The accessibility toolbar provides basic controls allowing visitors to increase the contrast of a website, switch to a grayscale/desaturated view, or increase the size of the fonts. Cookies are stored for future visits and it doesn't impact styles outside of the scope of the toolbar unless requested.
